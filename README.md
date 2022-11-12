@@ -1,4 +1,7 @@
 # Projeto Conceitual de Banco de Dados - Oficina Mecânica
+Desenvolvendo a primeira etapa da Modelagem de Banco de Dados, chamada de Projeto Conceitual, onde vamos analisar o problema e definir as entidades e objetos que devem ser criados, além do relacionamento entre eles.
+
+A ferramenta utilizada para a realização dessa tarefa é o MySQL WorkBench.
 
 ## Narrativa:
 - Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica;
